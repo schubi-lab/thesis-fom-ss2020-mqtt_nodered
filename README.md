@@ -1,1 +1,1 @@
-Work in Progess: Currently working  on building a new Node-RED node that simplify the current function in the flow "bitte_lueften".
+Work in Progess: Currently working on a Node-RED-node, which simplifies the function in the flow "bitte_lueften".

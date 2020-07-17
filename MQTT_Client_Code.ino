@@ -1,3 +1,13 @@
+/*
+Project:  thesis-fom-ss2020-mqtt_nodered
+Author:   Felix Schubert
+          This code is based on the code of 
+          Thomas Edlinger for www.edistechlab.com .
+Date:     Created 05.07.2020
+Version:  V1.0
+*/
+
+
 #include <ESP8266WiFi.h>
 #include <ESP8266mDNS.h>
 #include <WiFiUdp.h>
